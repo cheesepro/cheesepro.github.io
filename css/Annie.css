@@ -413,8 +413,8 @@ header .h-footer ul li a {
 }
 
 .spinner {
-	width: 100px;
-	height: 100px;
+	width: 60px;
+	height: 60px;
 	position: relative;
 	margin: 100px auto;
 }
